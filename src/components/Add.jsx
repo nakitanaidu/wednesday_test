@@ -36,7 +36,8 @@ export default class Add extends Component {
   };
 
   render() {
-    // var { last_name, first_name, age, job } = this.state.user;
+    
+    
     return (
       <div className="add-form-wrapper">
         <h1>Add Employee</h1>
